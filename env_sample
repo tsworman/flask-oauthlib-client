@@ -1,0 +1,9 @@
+export DEBUG=True
+export SECRET_KEY=Dummy
+export FLASK_APP=run.py
+export FLASK_DEBUG=True
+export FLASK_ENV=development
+export OAUTHLIB_INSECURE_TRANSPORT=true
+export OAUTH_HOST=http://127.0.0.1:5001
+export OAUTH_KEY=Dummy
+export OAUTH_SECRET=NOTASECRET
