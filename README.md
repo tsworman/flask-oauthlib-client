@@ -6,8 +6,9 @@ Tyler Worman - tsworman@novaslp.net
 
 ## Python Oauth Client/Provider Project
 This is part 1 of 4 of my project examples showing functional FLASK/Python Oauth usage.
-This is an attemp to undo the damage/frustration done by crappy documentation and complete 
-tricky bits which are often omitted or left to be implemented later in tutorials.
+This is an attemp to undo the damage/frustration done by crappy documentation. 
+Along the way we've completed 'tricky bits' and 'exercise left to reader' that I've found in many
+'tutorials'
 
 ### Four projects
 * Flask_oauthLib-client - This project. 
